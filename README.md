@@ -15,10 +15,10 @@ Built with React and simple utility functions, it focuses on smooth UI, responsi
 ![Open Account Page](./screenshots/openAccountPage.png)
 
 ### 🔐 Login Page
-![Login Page](./screenshots/LoginAccountPage.png)
+![Login Page](./screenshots/loginAccountPage.png)
 
 ### 📊 Account Page
-![Account Page](./screenshots/AccountPage.png)
+![Account Page](./screenshots/accountPage.png)
 
 ---
 
