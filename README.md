@@ -38,11 +38,17 @@ Built with React and simple utility functions, it focuses on smooth UI, responsi
 These sample users are preloaded from data/users.js using generated account numbers and pins.
 
 |-------------------------------------------------------|
+
 |      Name	        |      Username	  |      Pin        |
+
 |-------------------|-----------------------------------|
+
 |  Rahul Sharma	    |      rahul95	  |     rahul95     |
+
 |   Sneha Verma	    |      sneha98	  |     sneaha98    |
+
 |   Amit Singh	    |      amit88 	  |     amit88      |
+
 |-------------------------------------------------------|
 
 
